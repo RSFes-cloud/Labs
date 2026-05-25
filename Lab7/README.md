@@ -20,3 +20,5 @@ java ArraySumThread
 java MatrixMaxThread
 java WarehouseTransfer
 ```
+---
+Автор: Липский Иван Витальевич
