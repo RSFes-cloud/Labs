@@ -24,3 +24,5 @@ java CapitalLetterHighlight
 java IPValidator
 java WordFinder
 ```
+---
+Автор: Липский Иван Витальевич
