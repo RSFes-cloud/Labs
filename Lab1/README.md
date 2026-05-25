@@ -18,3 +18,5 @@ javac *.java
 java Primes
 java Palindrome madam racecar apple kayak song noon
 ```
+---
+Автор: Липский Иван Витальевич
